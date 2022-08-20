@@ -2,6 +2,3 @@ baseURL = "http://pratul.mataroa.blog/"
 languageCode = "en-us"
 title = "macrodata refinement."
 theme = "mataroa"
-
-[params]
-    description = ""
